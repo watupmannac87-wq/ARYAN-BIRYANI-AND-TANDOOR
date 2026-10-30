@@ -1,0 +1,6 @@
+{
+  "name": "Aryan Biryani and Tandoor",
+  "description": "Authentic biryani and traditional tandoor specialities located on Talegaon Varale Road, Varale, Talegaon Dabhade, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
